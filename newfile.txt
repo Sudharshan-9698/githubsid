@@ -1,2 +1,2 @@
-local la change pannirua athu github la change aaganum
+github la change pannuna local git la change aaganum athuku (git pull) command use pannanum
 
